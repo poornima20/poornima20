@@ -1,61 +1,38 @@
-<!-- Notion-like GitHub Profile README -->
-
-<h1 align="center">Hi, I'm Poornima 👋</h1>
-
+<h1 align="center">Poornima Suresh</h1>
 <p align="center">
-  🚀 AI/ML Developer | 💼 Ex-Intel Intern | 🎓 MTech in AI-ML | 💡 Startup Enthusiast  
+AI/ML Developer · Full Stack Engineer · Building real-world AI tools
 </p>
 
 ---
 
-## 📌 Projects
+## Projects
 
-| Project | Description | Tech Stack | Demo |
-|--------|-------------|------------|------|
-| 🧠 [BackTrack DSA](https://datatab-backtrackdsa.onrender.com/) | Simplifies DSA questions step-by-step using AI | React, Node.js, OpenAI API | [🌐 Visit](https://datatab-backtrackdsa.onrender.com/) |
-| ✅ [ToDo List](https://poornima20.github.io/DataTab-ToDoList/) | Smart, categorized to-do list | HTML, CSS, JS, LocalStorage | [🌐 Visit](https://poornima20.github.io/DataTab-ToDoList/) |
-| 📊 [DATATAB](https://poornima20.github.io/DataTab/lists) | Portfolio of all my apps & experiments | HTML, JS, AI Integration | [🌐 Visit](https://poornima20.github.io/DataTab/lists) |
-
----
-
-## 🧠 Skills
-
-- 💻 Languages: C, C++, Python, JavaScript, HTML/CSS
-- 🧠 AI/ML: OpenAI, Scikit-learn, TensorFlow (basic), Prompt Engineering
-- 🛠️ Tools: GitHub, Git, Jira, MySQL, Postman, Node.js, React
+| Name | Description | Stack | Link |
+|------|-------------|-------|------|
+| BackTrack DSA | AI-powered step-by-step simplifier for coding problems | React, Node.js, OpenAI API | [Visit](https://datatab-backtrackdsa.onrender.com/) |
+| ToDo List | Smart to-do list with category filters and color-coded tags | HTML, CSS, JavaScript | [Visit](https://poornima20.github.io/DataTab-ToDoList/) |
+| DATATAB | Central hub for all projects and experiments | HTML, Vanilla JS | [Visit](https://poornima20.github.io/DataTab/lists) |
 
 ---
 
-## 🧳 Experience
+## Skills
 
-**Intel** — *AI/ML Intern*  
-_May 2024 – March 2025_  
-→ Worked on [project description in 1-2 lines]  
-→ [Add any significant metrics or tech used]
-
-**Capgemini** — *SAP ABAP Developer*  
-_July 2021 – May 2022_  
-→ Supported Thales project in system maintenance and optimization
+- Programming: C, C++, Python, JavaScript, HTML/CSS
+- Web: Node.js, React, REST APIs, LocalStorage
+- AI/ML: Prompt Engineering, OpenAI API, Scikit-learn
+- Tools: Git, GitHub, Jira, MySQL, Postman
 
 ---
 
-## 🏆 Achievements
+## Links
 
-- 🎯 CGPA 9.13 in MTech (AI/ML)
-- 🏅 Finalist in [Hackathon Name]
-- 📚 10+ Full-stack and AI-based personal projects
-
----
-
-## 🔗 Links
-
-- [📄 Resume](#) (or link to Google Drive / portfolio site)
-- [🌐 Portfolio](https://poornima20.github.io/DataTab/lists)
-- [📬 LinkedIn](https://linkedin.com/in/yourprofile)
-- [🐦 Twitter](https://twitter.com/yourprofile)
+- Portfolio: [poornima20.github.io/DataTab/lists](https://poornima20.github.io/DataTab/lists)
+- GitHub: [github.com/poornima20](https://github.com/poornima20)
+- LinkedIn: [linkedin.com/in/your-profile](#)
+- Resume: [View PDF](#)
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=poornima20&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=poornima20&label=Profile+Views&color=000000&style=flat" alt="Profile Views" />
 </p>
