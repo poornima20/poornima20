@@ -1,7 +1,5 @@
 <h1 align="center">Poornima Suresh</h1>
-<p align="center">
-AI/ML Developer · Full Stack Engineer · Building real-world AI tools
-</p>
+<p align="center">Software Developer · Building real-world AI tools · AI/ML Engineer</p>
 
 ---
 
