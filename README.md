@@ -5,24 +5,9 @@
 
 ## 🚀 Projects
 
-## 🚀 Projects
-
-<div align="center">
-
-[![BackTrack DSA](https://raw.githubusercontent.com/poornima20/poornima20/main/assets/Backtrack.gif)](https://datatab-backtrackdsa.onrender.com)  
-**BackTrack DSA**  
-*AI-powered step-by-step simplifier*  
-
-[![ToDo List](https://raw.githubusercontent.com/poornima20/poornima20/main/assets/To%20do%20list.gif)](https://poornima20.github.io/DataTab-ToDoList/)  
-**ToDo List**  
-*Smart task manager*  
-
-[![DATATAB](https://raw.githubusercontent.com/poornima20/poornima20/main/assets/DataTab.gif)](https://poornima20.github.io/DataTab-ProjectVisualizer/)  
-**DATATAB**  
-*My project hub*
-
-</div>
-
+| [![BackTrack DSA](https://raw.githubusercontent.com/poornima20/poornima20/main/assets/Backtrack.gif)](https://datatab-backtrackdsa.onrender.com) | [![ToDo List](https://raw.githubusercontent.com/poornima20/poornima20/main/assets/To%20do%20list.gif)](https://poornima20.github.io/DataTab-ToDoList/) | [![DATATAB](https://raw.githubusercontent.com/poornima20/poornima20/main/assets/DataTab.gif)](https://poornima20.github.io/DataTab-ProjectVisualizer/) |
+|---|---|---|
+| **BackTrack DSA**<br>*AI-powered step-by-step simplifier* | **ToDo List**<br>*Smart task manager* | **DATATAB**<br>*My project hub* |
 
 ## 🛠 Skills
 
