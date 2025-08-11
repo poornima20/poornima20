@@ -146,9 +146,9 @@
   <a href="#" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/000000/resume.png" width="20" height="20" alt="Resume"/>
   </a>
+  </p>
   <p align="center">
   <img src="https://komarev.com/ghpvc/?username=poornima20&label=Profile+Views&color=000000&style=flat" alt="Profile Views" />
-</p>
 </p>
 
 
