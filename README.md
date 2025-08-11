@@ -1,7 +1,7 @@
 <h1 align="center">Poornima Suresh</h1>
 <p align="center">Software Developer · Building real-world AI tools · AI/ML Engineer</p>
 
----
+
 
 ## 🚀 Projects
 
@@ -10,21 +10,21 @@
     <tr>
       <td align="center" width="33%">
         <a href="https://datatab-backtrackdsa.onrender.com/" target="_blank">
-          <img src="D:\Project\GitHub\Backtrack.gif" width="64"/><br>
+          <img src="https://github.com/poornima20/poornima20/blob/main/assests/Backtrack.gif?raw=true" width="64"/><br>
           <b>BackTrack DSA</b><br>
           <sub>AI-powered step-by-step simplifier</sub>
         </a>
       </td>
       <td align="center" width="33%">
   <a href="https://poornima20.github.io/DataTab-ToDoList/" target="_blank">
-    <img src="D:\Project\GitHub\To do list.gif" width="80"/><br>
+    <img src="https://github.com/poornima20/poornima20/blob/main/assests/To%20do%20list.gif?raw=true" width="80"/><br>
     <b>ToDo List</b><br>
     <sub>Smart task manager</sub>
   </a>
 </td>
       <td align="center" width="33%">
         <a href="https://poornima20.github.io/DataTab/lists" target="_blank">
-            <img src="D:\Project\GitHub\DataTab.gif" width="80"/><br>
+            <img src="https://github.com/poornima20/poornima20/blob/main/assests/DataTab.gif?raw=true" width="80"/><br>
             <b>DATATAB</b></a><br>            
         <sub>My project hub</sub>
         </td>
@@ -32,7 +32,7 @@
   </table>
 </p>
 
----
+
 
 ## 🛠 Skills
 
