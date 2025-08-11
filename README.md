@@ -9,9 +9,7 @@
   <table>
     <tr>
       <td align="center" width="33%">
-        <a href="https://datatab-backtrackdsa.onrender.com/" target="_blank">
-          <img src="https://github.com/poornima20/poornima20/blob/main/assets/Backtrack.gif?raw=true" width="64" height="64"/><br>
-          <b>BackTrack DSA</b></a><br>
+        [![BackTrack DSA](https://raw.githubusercontent.com/poornima20/poornima20/main/assets/Backtrack.gif)](https://datatab-backtrackdsa.onrender.com/)<br>
           <sub>AI-powered step-by-step simplifier</sub>
       </td>
             <td align="center" width="33%">
