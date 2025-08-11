@@ -13,14 +13,13 @@
           <img src="https://github.com/poornima20/poornima20/blob/main/assests/Backtrack.gif?raw=true" width="64"/><br>
           <b>BackTrack DSA</b></a><br>
           <sub>AI-powered step-by-step simplifier</sub>
-
-      </td>
+      </td>      
       <td align="center" width="33%">
-  <a href="https://poornima20.github.io/DataTab-ToDoList/" target="_blank">
-    <img src="https://github.com/poornima20/poornima20/blob/main/assests/To%20do%20list.gif?raw=true" width="80"/><br>
-    <b>ToDo List</b></a><br>
-    <sub>Smart task manager</sub>
-</td>
+        <a href="https://poornima20.github.io/DataTab-ToDoList/" target="_blank">
+       <img src="https://github.com/poornima20/poornima20/blob/main/assests/To%20do%20list.gif?raw=true" width="80"/><br>
+       <b>ToDo List</b></a><br>
+       <sub>Smart task manager</sub>
+    </td>
       <td align="center" width="33%">
         <a href="https://poornima20.github.io/DataTab-ProjectVisualizer/" target="_blank">
             <img src="https://github.com/poornima20/poornima20/blob/main/assests/DataTab.gif?raw=true" width="80"/><br>
