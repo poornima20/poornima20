@@ -5,9 +5,35 @@
 
 ## 🚀 Projects
 
-| [![BackTrack DSA](https://raw.githubusercontent.com/poornima20/poornima20/main/assets/Backtrack.gif)](https://datatab-backtrackdsa.onrender.com) | [![ToDo List](https://raw.githubusercontent.com/poornima20/poornima20/main/assets/To%20do%20list.gif)](https://poornima20.github.io/DataTab-ToDoList/) | [![DATATAB](https://raw.githubusercontent.com/poornima20/poornima20/main/assets/DataTab.gif)](https://poornima20.github.io/DataTab-ProjectVisualizer/) |
-|---|---|---|
-| **BackTrack DSA**<br>*AI-powered step-by-step simplifier* | **ToDo List**<br>*Smart task manager* | **DATATAB**<br>*My project hub* |
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="200">
+<a href="https://datatab-backtrackdsa.onrender.com">
+<img src="https://raw.githubusercontent.com/poornima20/poornima20/main/assets/Backtrack.gif" width="80"><br>
+<b>BackTrack DSA</b><br>
+<sub><i>AI-powered step-by-step simplifier</i></sub>
+</a>
+</td>
+<td align="center" width="200">
+<a href="https://poornima20.github.io/DataTab-ToDoList/">
+<img src="https://raw.githubusercontent.com/poornima20/poornima20/main/assets/To%20do%20list.gif" width="80"><br>
+<b>ToDo List</b><br>
+<sub><i>Smart task manager</i></sub>
+</a>
+</td>
+<td align="center" width="200">
+<a href="https://poornima20.github.io/DataTab-ProjectVisualizer/">
+<img src="https://raw.githubusercontent.com/poornima20/poornima20/main/assets/DataTab.gif" width="80"><br>
+<b>DATATAB</b><br>
+<sub><i>My project hub</i></sub>
+</a>
+</td>
+</tr>
+</table>
+
+</div>
 
 ## 🛠 Skills
 
