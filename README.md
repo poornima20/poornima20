@@ -23,7 +23,7 @@
   </a>
 </td>
       <td align="center" width="33%">
-        <a href="https://poornima20.github.io/DataTab/lists" target="_blank">
+        <a href="https://poornima20.github.io/DataTab-ProjectVisualizer/" target="_blank">
             <img src="https://github.com/poornima20/poornima20/blob/main/assests/DataTab.gif?raw=true" width="80"/><br>
             <b>DATATAB</b></a><br>            
         <sub>My project hub</sub>
