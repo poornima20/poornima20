@@ -2,12 +2,11 @@
 <p align="center">Software Developer · Building real-world AI tools · AI/ML Engineer</p>
 
 
-
 ## 🚀 Projects
 
 <div align="center">
 
- [![BackTrack DSA](https://raw.githubusercontent.com/poornima20/poornima20/main/assets/Backtrack.gif)](https://datatab-backtrackdsa.onrender.com) | [![ToDo List](https://raw.githubusercontent.com/poornima20/poornima20/main/assets/To%20do%20list.gif)](https://poornima20.github.io/DataTab-ToDoList/) | [![DATATAB](https://raw.githubusercontent.com/poornima20/poornima20/main/assets/DataTab.gif)](https://poornima20.github.io/DataTab-ProjectVisualizer/) |
+| <div style="border:2px solid white; padding:10px; border-radius:8px;">[![BackTrack DSA](https://raw.githubusercontent.com/poornima20/poornima20/main/assets/Backtrack.gif)](https://datatab-backtrackdsa.onrender.com)</div> | <div style="border:2px solid white; padding:10px; border-radius:8px;">[![ToDo List](https://raw.githubusercontent.com/poornima20/poornima20/main/assets/To%20do%20list.gif)](https://poornima20.github.io/DataTab-ToDoList/)</div> | <div style="border:2px solid white; padding:10px; border-radius:8px;">[![DATATAB](https://raw.githubusercontent.com/poornima20/poornima20/main/assets/DataTab.gif)](https://poornima20.github.io/DataTab-ProjectVisualizer/)</div> |
 |---|---|---|
 | **BackTrack DSA**<br><sub><i>AI-powered step-by-step simplifier</i></sub> | **ToDo List**<br><sub><i>Smart task manager</i></sub> | **DATATAB**<br><sub><i>My project hub</i></sub> |
 
