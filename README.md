@@ -114,16 +114,16 @@
 <br>
 
 <p align="center">
-  <a href="https://poornima20.github.io/DataTab/lists" target="_blank">
+  <a href="https://poornima20.github.io/DataTab-ProjectVisualizer/" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/000000/globe.png" width="20" height="20" alt="Portfolio"/>
   </a>
   <a href="https://github.com/poornima20" target="_blank">
     <img src="https://img.icons8.com/material-outlined/64/github.png" width="20" height="20" alt="GitHub"/>
   </a>
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/poornima-suresh-37a927214/" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" width="20" height="20" alt="LinkedIn"/>
   </a>
-  <a href="#" target="_blank">
+  <a href="https://drive.google.com/file/d/12oGmzpENyGpKiGR6P2X9cD-69TuuxYh9/view?usp=drive_link" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/000000/resume.png" width="20" height="20" alt="Resume"/>
   </a>
   </p>
