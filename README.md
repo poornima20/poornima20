@@ -10,24 +10,19 @@
     <tr>
       <td align="center" width="33%">
         <a href="https://datatab-backtrackdsa.onrender.com/" target="_blank">
-          <img src="https://github.com/poornima20/poornima20/blob/main/assests/Backtrack.gif?raw=true" width="64"/><br>
+          <img src="https://github.com/poornima20/poornima20/blob/main/assets/Backtrack.gif?raw=true" width="64"/><br>
           <b>BackTrack DSA</b></a><br>
           <sub>AI-powered step-by-step simplifier</sub>
-<<<<<<< HEAD
-      </td>      
-=======
       </td>
-      
->>>>>>> b5ac087 (Update README and fix image paths)
-      <td align="center" width="33%">
+            <td align="center" width="33%">
         <a href="https://poornima20.github.io/DataTab-ToDoList/" target="_blank">
-       <img src="https://github.com/poornima20/poornima20/blob/main/assests/To%20do%20list.gif?raw=true" width="80"/><br>
+       <img src="https://github.com/poornima20/poornima20/blob/main/assets/To%20do%20list.gif?raw=true" width="80"/><br>
        <b>ToDo List</b></a><br>
        <sub>Smart task manager</sub>
     </td>
       <td align="center" width="33%">
         <a href="https://poornima20.github.io/DataTab-ProjectVisualizer/" target="_blank">
-            <img src="https://github.com/poornima20/poornima20/blob/main/assests/DataTab.gif?raw=true" width="80"/><br>
+            <img src="https://github.com/poornima20/poornima20/blob/main/assets/DataTab.gif?raw=true" width="80"/><br>
             <b>DATATAB</b></a><br>            
         <sub>My project hub</sub>
         </td>
